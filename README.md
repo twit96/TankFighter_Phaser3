@@ -4,7 +4,7 @@
 <!-- Title Image -->
 <p align="center">
   <a href="https://twit96.github.io/TankFighter_Phaser3/">
-    <img border="0" alt="Tank Fighter - Title Card" src="/assets/images/titleCard.png">
+    <img border="0" alt="Tank Fighter - Title Card" src="./assets/images/titleCard.png">
   </a>
 </p>
 
@@ -33,3 +33,7 @@
  Producer: <a href="https://www.linkedin.com/in/paultoprac/">Dr. Paul Toprac</a><br />
  Associate Producer: <a href="https://www.linkedin.com/in/jason-harron-a5ba06b/">Jason Harron</a>
 </p>
+
+<hr />
+
+<p align="center"><i>Built in Fall 2019 · No longer actively maintained</i></p>
